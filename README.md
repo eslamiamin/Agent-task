@@ -1,4 +1,4 @@
-# 📊 Studio Task - Business Data Agent with LangGraph
+# 📊 Task - Business Data Agent with LangGraph
 
 This project is a simple AI agent built using **LangGraph**.  
 It takes in daily business data (revenue, cost, number of customers), performs analysis, and produces actionable recommendations for business decisions.
